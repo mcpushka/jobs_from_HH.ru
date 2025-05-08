@@ -2,6 +2,8 @@
 
 Automated collection, processing, and visualization of requirements (skills, experience, salary ranges) from 1,000+ job postings from hhru in an interactive dashboard.
 
+In this project, I experimented and wrote all the necessary things on python code using the streamlit framework.
+
 ---
 
 ## Contents
