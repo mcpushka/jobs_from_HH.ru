@@ -26,15 +26,15 @@ In this project, I experimented and wrote all the necessary things on python cod
    pip install -r requirements.txt
 4. **Preprocess data**
    ```bash
-   python src/preprocess.py
+   python preprocess.py
 5. **Run the dashboard**
    ```bash
-   streamlit run src/app.py
+   streamlit run app.py
    http://localhost:8501
 
 ---
 ## File Descriptions
-1. **clean_jobs.csv (created during data processing)**
+1. **clean_jobs.csv (created during data preprocessing)**
 - Cleaned and normalized dataset produced by preprocess.py.
 2. **preprocess.py**
 - Loads jobs.csv
